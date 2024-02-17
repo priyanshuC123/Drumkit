@@ -33,10 +33,4 @@ Welcome to the Drumkit project! This project aims to provide an interactive expe
 - CSS3
 - JavaScript
 
-### Credits:
-This project is inspired by various drum machine projects available online. Special thanks to the developers and contributors of those projects for their ideas and inspirations.
-
-### Contribution:
-Contributions are welcome! If you have any ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
-
 Enjoy making beats with the Drumkit project! If you have any questions or feedback, don't hesitate to reach out. Happy drumming! 🥁🎶
